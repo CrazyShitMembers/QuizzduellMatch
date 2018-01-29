@@ -1,4 +1,9 @@
 # QuizzduellMatch
+
+## Quizduell Members
++ Nick = Birnefassungslos
+
+## Graph
     
                                    +-----WIN-----+
                                    |             |
