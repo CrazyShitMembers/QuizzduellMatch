@@ -17,4 +17,4 @@
             |                      |                         +------>        <------+
             |                      |                         |                      |
             |                      |                         |                      |
-    Nick +--+--+ Reza     Jonny +--+--+Raja        Martin +--+--+ Ania     Lotta +--+--+ Anne
+    Nick +--+--+ Reza     Jonny +--+--+ Raja       Martin +--+--+ Ania     Lotta +--+--+ Anne
