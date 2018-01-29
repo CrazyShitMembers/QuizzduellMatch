@@ -1,7 +1,7 @@
 # QuizzduellMatch
 
 ## Quizduell Members
-+ Nick = Birnefassungslos
++ Nick : Birnefassungslos
 
 ## Graph
     
